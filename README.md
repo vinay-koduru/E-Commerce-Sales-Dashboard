@@ -81,6 +81,11 @@ Some of the important insights identified from the analysis include:
 
 > **Note:** The insights above should be updated with the exact findings from the final dashboard.
 
+## 📷 Dashboard Preview
+
+![E-commerce Sales Dashboard](dashboard/<img width="1127" height="592" alt="dashboard_screenshot png" src="https://github.com/user-attachments/assets/0062913d-b922-4161-b9f8-2f0242d59229" />
+)
+
 ## 🔄 Project Workflow
 
 ```text
@@ -101,6 +106,15 @@ Interactive Dashboard
 Business Insights
 ```
 
+## 📂 Project Files
+
+| File/Folder                       | Description                    |
+| --------------------------------- | ------------------------------ |
+| `E-commerce_Sales_Dashboard.xlsx` | Excel dashboard and analysis   |
+| `dataset/`                        | Dataset used for the project   |
+| `dashboard/`                      | Dashboard screenshot           |
+| `insights/`                       | Business insights and findings |
+
 ## 🚀 Skills Demonstrated
 
 * Data Cleaning
@@ -120,3 +134,6 @@ Business Insights
 
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
+---
+
+⭐ If you find this project useful, feel free to explore the repository.
